@@ -1,0 +1,10 @@
+albumentations
+cv2
+pandas
+numpy
+torch
+segmentation_models_pytorch
+matplotlib
+torchvision
+tqdm
+PIL
