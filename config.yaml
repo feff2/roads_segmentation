@@ -1,0 +1,15 @@
+dataset_parameters:
+    root_dir: 'tiff'
+    metadata_path: 'metadata.csv'
+    label_class_dict_path: 'label_class_dict.csv'
+
+model_params:
+     in_channels: 3
+     classes: 1
+
+training_parameters:
+    batch_size: 128
+    random_seed: 42
+    base_lr: 0.001
+    num_epochs: 30
+    weight_decay: 0.001
