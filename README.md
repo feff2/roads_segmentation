@@ -1,6 +1,6 @@
 # Задача: научиться определять дороги 
 
-Для сеегментации использовал Unet с ResNet34 из библиотеки SMP
+Для сегментации использовал Unet с ResNet34 из библиотеки SMP
 
 Dataset взят с Kaggle https://www.kaggle.com/datasets/balraj98/massachusetts-roads-dataset/data
 
